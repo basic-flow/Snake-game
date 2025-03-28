@@ -53,6 +53,9 @@ BACKGOUND_COLOR = "black" # Background color
 Python 3.x
 Tkinter (included in standard Python installation)
 
+## Gameplay
+https://x.com/basic__med/status/1905651662443692253
+
 ## Support
 
 If you find this project useful and would like to support its development, you can:
